@@ -1,0 +1,18 @@
+.cssInp
+{
+    width : 70%;
+    margin: 15px 0px;
+}
+
+input{
+    box-sizing: border-box;
+    padding : 15px; 
+    border: none;
+    font-family: Arial;
+    font-size: medium;
+    outline: none;
+}
+/*
+input:focus{
+    
+}*/
