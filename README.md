@@ -1,3 +1,12 @@
+##To Run this application
+
+1.Node should be install
+2.then run cmd "npm install init" ,it will install all the necessary packages
+3.MongoDB should be installed and should be active
+4.run the server by cmd "npm server".
+5.now run the react app by cmd "npm start"
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
